@@ -1,0 +1,22 @@
+{
+  "name": "sdk-ios",
+  "version": "0.1.0",
+  "summary": "A short description of sdk-ios.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Rohmat Dasuki/sdk-ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rohmat Dasuki": "rohmat661@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Rohmat Dasuki/sdk-ios.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "sdk-ios/Classes/**/*"
+}
